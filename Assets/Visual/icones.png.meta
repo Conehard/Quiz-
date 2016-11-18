@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ff1ccdf3047ae424c82193ac701138a2
+timeCreated: 1448093619
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icones_0
+    21300002: icones_1
+    21300004: icones_2
+    21300006: icones_3
+    21300008: icones_24
+    21300010: icones_25
+    21300012: icones_26
+    21300014: icones_27
+    21300016: icones_4
+    21300018: icones_5
+    21300020: icones_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: icones_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1153
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1159
+        width: 158
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1108
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 498
+        width: 640
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 353
+        width: 648
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 308
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 33
+        width: 282
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 885
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 891
+        width: 173
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icones_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 902
+        width: 298
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
